@@ -24,7 +24,7 @@
   <div id="result"></div>
 
   <script>
-    const API_URL = 'http://3.67.122.7:12355/upload';
+    const API_URL = 'http://172.188.98.35:12345/upload';
 
     const form = document.getElementById('uploadForm');
     const resultDiv = document.getElementById('result');
