@@ -24,7 +24,7 @@
   <div id="result"></div>
 
   <script>
-    const API_URL = 'http://13.232.81.78:12345/upload';
+    const API_URL = 'https://q.dentalai.work/upload';
 
     const form = document.getElementById('uploadForm');
     const resultDiv = document.getElementById('result');
